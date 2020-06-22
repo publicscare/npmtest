@@ -1,0 +1,19 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000p\u0000m\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000#\u0000 \u0000n\u0000p\u0000m\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "chalktest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/publicscare/npmtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/publicscare/npmtest/issues"
+  },
+  "homepage": "https://github.com/publicscare/npmtest#readme"
+}
